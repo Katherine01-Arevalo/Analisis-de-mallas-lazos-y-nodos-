@@ -8,7 +8,7 @@
 
 ![Pasos_Lazo](https://github.com/Katherine01-Arevalo/Analisis-de-mallas-lazos-y-nodos-/blob/main/img/Pasos_Lazo.jpg)
 
-Resumen del proceso:
+ Dicho de otra manera el proceso:
 “(La suma de los resistores dispuestos en un lazo) multiplicada por (la corriente de lazo) menos (cada resistor común a ambos lazos) multiplicado por (la corriente de lazo asociada adyacente) es igual (al voltaje de fuente presente en el lazo).” (Floyd, 2007). 
 
 **3.DIAGRAMAS**
@@ -20,5 +20,7 @@ Resumen del proceso:
 **6.CONCLUSIONES**
 
 **7.BIBLIOGRAFÍA**
+
+-Floyd, Thomas L., (2007). Principios de circuitos eléctricos. México. PEARSON EDUCACIÓN.
 
 **8.ANEXOS**
