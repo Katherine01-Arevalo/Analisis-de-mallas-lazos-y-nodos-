@@ -6,7 +6,7 @@
 
 - Analizar los diferentes métedos para resolver ecuaciones simultaneas resultantes del análisis de un circuito eléctrico.
 
-- Analizar y aplicar el método de corriente en ramas,lazos y nodos para determinar las cantidades desconocidas en un circuito eléctrico.
+- Analizar y aplicar el método de corriente en ramas, lazos y nodos para determinar las cantidades desconocidas en un circuito eléctrico.
 
 **2.MARCO TEÓRICO**
 
