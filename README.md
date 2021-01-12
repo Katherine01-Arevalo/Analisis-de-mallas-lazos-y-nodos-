@@ -17,6 +17,10 @@
 
 **5.APORTACIONES**
 
+  Mediante el uso de un simulador se observa en la imagen   el  voltaje en cada nodo  circuito perteneciente  al capitulo 9 (Ejercicio 28)
+  
+ 
+
 **6.CONCLUSIONES**
 
 **7.BIBLIOGRAFÍA**
