@@ -1,4 +1,4 @@
-# Analisis-de-mallas-lazos-y-nodos-
+# Análisis de Ramas, Lazos y Nodos
 
 **1.OBJETIVOS**
 
@@ -9,6 +9,8 @@
 - Analizar y aplicar el método de corriente en ramas, lazos y nodos para determinar las cantidades desconocidas en un circuito eléctrico.
 
 **2.MARCO TEÓRICO**
+
+![.](https://github.com/Katherine01-Arevalo/Analisis-de-mallas-lazos-y-nodos-/blob/main/img/Mapa_Ec.simultaneas.jpg)
 
 ![Teoria_Lazo](https://github.com/Katherine01-Arevalo/Analisis-de-mallas-lazos-y-nodos-/blob/main/img/Teoria_Lazo.jpg)
 
