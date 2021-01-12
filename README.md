@@ -2,6 +2,10 @@
 
 **1.OBJETIVOS**
 
+- Analizar los diferentes métedos para resolver ecuaciones simultaneas resultantes del analicis de un circuito eléctrico.
+
+- Aplicar el método de corriente en ramas y lazos para determinar las cantidades desconocidas en un circuito eléctrico.
+
 **2.MARCO TEÓRICO**
 
 ![Teoria_Lazo](https://github.com/Katherine01-Arevalo/Analisis-de-mallas-lazos-y-nodos-/blob/main/img/Teoria_Lazo.jpg)
