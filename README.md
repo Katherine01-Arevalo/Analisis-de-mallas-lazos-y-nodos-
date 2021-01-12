@@ -28,8 +28,11 @@
   Mediante el uso de un simulador se observa en la imagen   el  voltaje en cada nodo  circuito perteneciente  al capitulo 9 (Ejercicio 28)
   
   ![ciruito28](https://github.com/Katherine01-Arevalo/Analisis-de-mallas-lazos-y-nodos-/blob/main/img/circuito28.png)  
- 
-
+  
+  A continuación se muestra la simulacion del ejercicio 24.
+  
+  ![Simulacion](https://github.com/Katherine01-Arevalo/Analisis-de-mallas-lazos-y-nodos-/blob/main/img/Simulacion.jpg)
+  
 **6.CONCLUSIONES**
 
 **7.BIBLIOGRAFÍA**
