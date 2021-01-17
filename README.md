@@ -35,6 +35,8 @@
   
 **6.CONCLUSIONES**
 
+-El método de lazos tiene mucha similitud con el método de mallas pero, el desarrollo del análisis por medio de lazos difiere. En el caso de lazos se puede hacer por medio de un sistema de ecuaciones o usando determinantes. Cabe recordar que en el estudio por medio de lazos las corrientes son netamente numéricas mas no físicas ni reales por lo cual se limita a estudios de casos ideales y prácticos que no se levaran a cabo. 
+
 **7.BIBLIOGRAFÍA**
 
 -Floyd, Thomas L., (2007). Principios de circuitos eléctricos. México. PEARSON EDUCACIÓN.
