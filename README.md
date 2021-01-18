@@ -26,10 +26,10 @@
 Circuito para analizar 
 
  Análisis de lazos 
-
+![lazo](https://github.com/Katherine01-Arevalo/Analisis-de-mallas-lazos-y-nodos-/blob/main/img/metodo%20lazos.png)
 
 Análisis de nodos 
-
+![nodos](https://github.com/Katherine01-Arevalo/Analisis-de-mallas-lazos-y-nodos-/blob/main/img/metodo%20nodos.png)
 
 **4.EXPLICACIÓN**
 
@@ -52,6 +52,7 @@ El método de lazos tiene mucha similitud con el método de mallas, pero, el des
 Existen distintos métodos para  llegar a analizar un circuito se concluye que cada método  llega a un mismo resultado, entre  el más eficiente usado en estos métodos estudiados es el análisis mediante nodos ya que  la cantidad de ecuaciones es menor por lo cual facilita el proceso de analizar el circuito a estudiar 
 
 **7.BIBLIOGRAFÍA**
+
 -Floyd, Thomas L., (2007). Principios de circuitos eléctricos. México. PEARSON EDUCACIÓN.
 
 -García, A. (2013) Ley de los voltajes de Kirchhoff: Método de Mallas. Panamahitek. Recuperado de: http://panamahitek.com/ley-de-los-voltajes-de-kirchhoff-metodo-de-mallas/#:~:text=En%20un%20circuito%20el%C3%A9ctrico%2C%20una,formadas%20por%204%20caminos%20cerrados.&text=Si%20multiplicamos%20las%20corrientes%20de,el%20total%20debe%20ser%20cero.
