@@ -23,6 +23,14 @@
 
 **3.DIAGRAMAS**
 
+Circuito para analizar 
+
+ Análisis de lazos 
+
+
+Análisis de nodos 
+
+
 **4.EXPLICACIÓN**
 
 **5.APORTACIONES**
