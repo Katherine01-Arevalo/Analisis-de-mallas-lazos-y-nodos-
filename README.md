@@ -26,9 +26,11 @@
 Circuito para analizar 
 
  Análisis de lazos 
+ 
 ![lazo](https://github.com/Katherine01-Arevalo/Analisis-de-mallas-lazos-y-nodos-/blob/main/img/metodo%20lazos.png)
 
 Análisis de nodos 
+
 ![nodos](https://github.com/Katherine01-Arevalo/Analisis-de-mallas-lazos-y-nodos-/blob/main/img/metodo%20nodos.png)
 
 **4.EXPLICACIÓN**
