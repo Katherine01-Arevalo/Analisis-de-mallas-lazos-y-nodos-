@@ -12,7 +12,7 @@
 
 ![.](https://github.com/Katherine01-Arevalo/Analisis-de-mallas-lazos-y-nodos-/blob/main/img/Mapa_Ec.simultaneas.jpg)
 
-![mallas](https://github.com/Katherine01-Arevalo/Analisis-de-mallas-lazos-y-nodos-/blob/main/img/metodo%20mallas.png)
+![mallas](https://github.com/Katherine01-Arevalo/Analisis-de-mallas-lazos-y-nodos-/blob/main/img/MAPA.png)
 
 ![Teoria_Lazo](https://github.com/Katherine01-Arevalo/Analisis-de-mallas-lazos-y-nodos-/blob/main/img/Teoria_Lazo.jpg)
 
