@@ -35,10 +35,19 @@
   
 **6.CONCLUSIONES**
 
--El método de lazos tiene mucha similitud con el método de mallas pero, el desarrollo del análisis por medio de lazos difiere. En el caso de lazos se puede hacer por medio de un sistema de ecuaciones o usando determinantes. Cabe recordar que en el estudio por medio de lazos las corrientes son netamente numéricas mas no físicas ni reales por lo cual se limita a estudios de casos ideales y prácticos que no se levaran a cabo. 
+Para poder resolver las ecuaciones obtenidas en el análisis de un circuito el número de ecuaciones debe ser igual al número de incógnitas, estar escritas en la forma estándar y cumplir tres restricciones de corriente y voltaje que son las leyes i-v de los elementos, la ley de corriente de Kirchhoff y la ley de voltaje de Kirchhoff.
+
+El método de lazos tiene mucha similitud con el método de mallas, pero, el desarrollo del análisis por medio de lazos difiere. En el caso de lazos se puede hacer por medio de un sistema de ecuaciones o usando determinantes. Cabe recordar que en el estudio por medio de lazos las corrientes son netamente numéricas mas no físicas ni reales por lo cual se limita a estudios de casos ideales y prácticos que no se levaran a cabo
+
+Existen distintos métodos para  llegar a analizar un circuito se concluye que cada método  llega a un mismo resultado, entre  el más eficiente usado en estos métodos estudiados es el análisis mediante nodos ya que  la cantidad de ecuaciones es menor por lo cual facilita el proceso de analizar el circuito a estudiar 
 
 **7.BIBLIOGRAFÍA**
-
 -Floyd, Thomas L., (2007). Principios de circuitos eléctricos. México. PEARSON EDUCACIÓN.
+
+-García, A. (2013) Ley de los voltajes de Kirchhoff: Método de Mallas. Panamahitek. Recuperado de: http://panamahitek.com/ley-de-los-voltajes-de-kirchhoff-metodo-de-mallas/#:~:text=En%20un%20circuito%20el%C3%A9ctrico%2C%20una,formadas%20por%204%20caminos%20cerrados.&text=Si%20multiplicamos%20las%20corrientes%20de,el%20total%20debe%20ser%20cero.
+
+-Calculadora de Matrices. (s. f.). matrixcalc. Recuperado 8 de enero de 2021, de https://matrixcalc.org/es/
+
+
 
 **8.ANEXOS**
