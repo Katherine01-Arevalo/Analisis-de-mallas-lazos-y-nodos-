@@ -35,6 +35,11 @@ Análisis de nodos
 
 **4.EXPLICACIÓN**
 
+Se da a conocer  nuevos métodos de solución para un circuito eléctrico que mediante  el apoyo de la ley de Ohm  y las leyes de Kirchoff se puede llegar a obtener el valor ya sea de sus corrientes o voltajes en el circuito a estudiar ,  entre los métodos tenemos el análisis de ramas, lazos y nodos.
+
+Estos tres métodos  se los puede utilizar  para el  estudio de cualquier circuito,  los cuales facilitan  el hallazgo de voltaje y corriente en cada elemento del circuito cada método  al aplicar generara los mismos resultados, mediante ejercicios se facilitara  la parte teórica.
+
+
 **5.APORTACIONES**
 
   Mediante el uso de un simulador se observa en la imagen   el  voltaje en cada nodo  circuito perteneciente  al capitulo 9 (Ejercicio 28)
